@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="726" viewBox="0 0 1000 726" role="img" aria-labelledby="title desc">
+<title id="title">Dengzi555 · 公开PR贡献</title>
+<desc id="desc">已合并3个公开PR，其中3个向他人仓库提交，近30天合并3个。</desc>
+<rect width="1000" height="726" fill="#ffffff"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;fill:#20252e}.muted{fill:#7d8798}.accent{fill:#8054e8}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<text x="48" y="50" font-size="12" class="accent mono" letter-spacing="2">■  OPEN SOURCE / CONTRIBUTIONS</text>
+<text x="48" y="110" font-size="38" class="" font-weight="650">Dengzi555</text>
+<text x="48" y="148" font-size="17" class="muted" >每一次贡献，都有迹可循。</text>
+<text x="952" y="50" font-size="11" class="muted mono" text-anchor="end">GITHUB / PR ACTIVITY</text>
+<path d="M48 182H952" stroke="#e8edf3"/>
+<text x="48" y="225" font-size="12" class="accent mono" letter-spacing="2">MERGED PULL REQUESTS</text>
+<text x="48" y="309" font-size="72" class="" font-weight="650">3</text>
+<text x="48" y="342" font-size="17" class="" >个公开 PR 已合并</text>
+<text x="420" y="279" font-size="38" class="" font-weight="600">3</text>
+<text x="420" y="311" font-size="14" class="muted" >提交给他人仓库</text>
+<text x="740" y="279" font-size="38" class="accent" font-weight="600">+3</text>
+<text x="740" y="311" font-size="14" class="muted" >近 30 天合并</text>
+<path d="M48 432H952" stroke="#e8edf3"/>
+<circle cx="835.8" cy="422" r="3.5" fill="#8054e8"><title>2026-10-20 · 1 PR</title></circle>
+<circle cx="845.8" cy="422" r="3.5" fill="#8054e8"><title>2026-10-21 · 1 PR</title></circle>
+<circle cx="946.0" cy="422" r="3.5" fill="#8054e8"><title>2026-10-31 · 1 PR</title></circle>
+<text x="48" y="458" font-size="11" class="muted mono" >08-03</text>
+<text x="952" y="458" font-size="11" class="muted mono" text-anchor="end">10-31</text>
+<text x="500" y="458" font-size="11" class="muted" text-anchor="middle">近 90 天 · 按合并日期</text>
+<path d="M48 485H952" stroke="#e8edf3"/>
+<text x="48" y="520" font-size="12" class="accent mono" letter-spacing="2">REPOSITORIES</text>
+<text x="952" y="520" font-size="11" class="muted mono" text-anchor="end">MERGED PR / STARS</text>
+<a xlink:href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">
+<rect x="48" y="541" width="32" height="32" rx="8" fill="#f7f4fd"/>
+<text x="64" y="562" font-size="12" class="accent mono" text-anchor="middle">01</text>
+<text x="98" y="565" font-size="17" class="mono" font-weight="550">awesome-dsh-plugin/awesome-dsh-plugin</text>
+<text x="788" y="565" font-size="15" class="mono" text-anchor="end">2 PR</text>
+<text x="952" y="565" font-size="14" class="muted mono" text-anchor="end">☆ 21.7k</text>
+</a>
+<path d="M48 592H952" stroke="#e8edf3"/>
+<a xlink:href="https://github.com/zauberzeug/nicegui">
+<rect x="48" y="609" width="32" height="32" rx="8" fill="#f7f4fd"/>
+<text x="64" y="630" font-size="12" class="accent mono" text-anchor="middle">02</text>
+<text x="98" y="633" font-size="17" class="mono" font-weight="550">zauberzeug/nicegui</text>
+<text x="788" y="633" font-size="15" class="mono" text-anchor="end">1 PR</text>
+<text x="952" y="633" font-size="14" class="muted mono" text-anchor="end">☆ 16.3k</text>
+</a>
+<path d="M48 660H952" stroke="#e8edf3"/>
+<text x="48" y="706" font-size="11" class="muted" >GitHub REST API · 仅公开数据 · 每日更新</text>
+<text x="952" y="706" font-size="11" class="muted mono" text-anchor="end">2026-10-31 23:34 UTC+8</text>
+</svg>

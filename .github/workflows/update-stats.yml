@@ -1,0 +1,40 @@
+name: Update public PR statistics
+
+on:
+  schedule:
+    - cron: '17 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - tests/**
+      - .github/workflows/update-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Verify statistics calculations
+        run: python3 -m unittest discover -s tests
+      - name: Fetch public contributions and render cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_stats.py --username Dengzi555
+      - name: Commit updated statistics
+        run: |
+          git add assets/pr-stats.svg assets/pr-stats-dark.svg stats.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update public PR statistics"
+          git push

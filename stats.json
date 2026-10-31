@@ -1,0 +1,32 @@
+{
+  "username": "Dengzi555",
+  "updated_at": "2026-10-31T23:34:33+08:00",
+  "scope": "authored merged public pull requests",
+  "pull_requests": [
+    {
+      "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "number": 7958,
+      "merged_at": "2026-10-19T20:20:10Z"
+    },
+    {
+      "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "number": 8186,
+      "merged_at": "2026-10-20T16:56:15Z"
+    },
+    {
+      "repository": "zauberzeug/nicegui",
+      "number": 6452,
+      "merged_at": "2026-10-31T15:04:44Z"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 21749
+    },
+    {
+      "name": "zauberzeug/nicegui",
+      "stars": 16329
+    }
+  ]
+}
