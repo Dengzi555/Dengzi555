@@ -16,11 +16,11 @@
 <text x="740" y="279" font-size="38" class="accent" font-weight="600">+3</text>
 <text x="740" y="311" font-size="14" class="muted" >近 30 天合并</text>
 <path d="M48 432H952" stroke="#e8edf3"/>
-<circle cx="835.8" cy="422" r="3.5" fill="#8054e8"><title>2026-10-20 · 1 PR</title></circle>
-<circle cx="845.8" cy="422" r="3.5" fill="#8054e8"><title>2026-10-21 · 1 PR</title></circle>
-<circle cx="946.0" cy="422" r="3.5" fill="#8054e8"><title>2026-10-31 · 1 PR</title></circle>
-<text x="48" y="458" font-size="11" class="muted mono" >08-03</text>
-<text x="952" y="458" font-size="11" class="muted mono" text-anchor="end">10-31</text>
+<circle cx="825.7" cy="422" r="3.5" fill="#8054e8"><title>2026-10-20 · 1 PR</title></circle>
+<circle cx="835.8" cy="422" r="3.5" fill="#8054e8"><title>2026-10-21 · 1 PR</title></circle>
+<circle cx="936.0" cy="422" r="3.5" fill="#8054e8"><title>2026-10-31 · 1 PR</title></circle>
+<text x="48" y="458" font-size="11" class="muted mono" >08-04</text>
+<text x="952" y="458" font-size="11" class="muted mono" text-anchor="end">11-01</text>
 <text x="500" y="458" font-size="11" class="muted" text-anchor="middle">近 90 天 · 按合并日期</text>
 <path d="M48 485H952" stroke="#e8edf3"/>
 <text x="48" y="520" font-size="12" class="accent mono" letter-spacing="2">REPOSITORIES</text>
@@ -42,5 +42,5 @@
 </a>
 <path d="M48 660H952" stroke="#e8edf3"/>
 <text x="48" y="706" font-size="11" class="muted" >GitHub REST API · 仅公开数据 · 每日更新</text>
-<text x="952" y="706" font-size="11" class="muted mono" text-anchor="end">2026-10-31 23:36 UTC+8</text>
+<text x="952" y="706" font-size="11" class="muted mono" text-anchor="end">2026-11-01 15:29 UTC+8</text>
 </svg>
