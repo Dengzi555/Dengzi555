@@ -1,19 +1,28 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="dengzi · 南邮研二在读，在实践中学习与分享。 · 感谢伟大的开源者。">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/hero-dark.svg">
+  <img src="assets/terminal/hero-light.svg" width="100%" alt="dengzi · 南邮研二在读 · DeepSeek 划词追问与开源实践">
 </picture>
 
-<!-- CONTRIB:BEGIN -->
-<!-- CONTRIB:END -->
+### about
 
-## 代表作品
+- 南邮研二在读，在实践中学习与分享。
+- 正在做 DeepSeek 划词追问工具，持续参与开源。
+- 感谢伟大的开源者。
 
-- **[deepseek-quotalk](<https://github.com/Dengzi555/deepseek-quotalk>)**：DeepSeek 网页划词追问扩展：结合上下文在浮动小窗中追问，支持流式回答、明暗主题，无需 API Key。
-- **[dsh-quotalk](<https://github.com/Dengzi555/dsh-quotalk>)**：DeepSeek Harness 桌面端划词追问：在原生侧边栏中结合上下文解释文字与代码。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/divider-dark.svg">
+  <img src="assets/terminal/divider-light.svg" width="100%" alt="分隔线">
+</picture>
 
-## 更多信息
+### projects
 
-[GitHub](<https://github.com/Dengzi555>)
+- **[deepseek-quotalk](https://github.com/Dengzi555/deepseek-quotalk)**：DeepSeek 网页划词追问扩展，结合上下文在浮动小窗中追问；支持流式回答、明暗主题，无需 API Key。
+- **[dsh-quotalk](https://github.com/Dengzi555/dsh-quotalk)**：DeepSeek Harness 桌面端划词追问，在原生侧边栏中解释文字与代码。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/divider-dark.svg">
+  <img src="assets/terminal/divider-light.svg" width="100%" alt="分隔线">
+</picture>
 
 ## 公开贡献
 
@@ -37,3 +46,9 @@
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/footer-dark.svg">
+  <img src="assets/terminal/footer-light.svg" width="100%" alt="感谢来访">
+</picture>
+
+<sub>Theme: Whale Terminal · Adapted from [github-profile-themes](https://github.com/Theater-ahyeon/github-profile-themes) · [素材来源](THEME-SOURCES.md)</sub>

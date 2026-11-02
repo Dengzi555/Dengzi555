@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="862" viewBox="0 0 1000 862" role="img" aria-labelledby="title desc">
 <title id="title">Dengzi555 · 公开PR贡献</title>
 <desc id="desc">已合并6个公开PR，其中6个向他人仓库提交，近30天合并6个。</desc>
-<rect width="1000" height="862" fill="#0d1117"/>
-<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;fill:#f0f3fa}.muted{fill:#939daf}.accent{fill:#b69aff}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<rect width="1000" height="862" fill="#101D1C"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;fill:#D6F6E8}.muted{fill:#9CBFB0}.accent{fill:#74DCAD}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
 <text x="48" y="50" font-size="12" class="accent mono" letter-spacing="2">■  OPEN SOURCE / CONTRIBUTIONS</text>
 <text x="48" y="110" font-size="38" class="" font-weight="650">Dengzi555</text>
 <text x="48" y="148" font-size="17" class="muted" >每一次贡献，都有迹可循。</text>
 <text x="952" y="50" font-size="11" class="muted mono" text-anchor="end">GITHUB / PR ACTIVITY</text>
-<path d="M48 182H952" stroke="#273040"/>
+<path d="M48 182H952" stroke="#33594D"/>
 <text x="48" y="225" font-size="12" class="accent mono" letter-spacing="2">MERGED PULL REQUESTS</text>
 <text x="48" y="309" font-size="72" class="" font-weight="650">6</text>
 <text x="48" y="342" font-size="17" class="" >个公开 PR 已合并</text>
@@ -15,51 +15,51 @@
 <text x="420" y="311" font-size="14" class="muted" >提交给他人仓库</text>
 <text x="740" y="279" font-size="38" class="accent" font-weight="600">+6</text>
 <text x="740" y="311" font-size="14" class="muted" >近 30 天合并</text>
-<path d="M48 432H952" stroke="#273040"/>
-<circle cx="815.7" cy="422" r="3.5" fill="#b69aff"><title>2026-10-20 · 1 PR</title></circle>
-<circle cx="825.7" cy="422" r="3.5" fill="#b69aff"><title>2026-10-21 · 1 PR</title></circle>
-<circle cx="926.0" cy="422" r="3.5" fill="#b69aff"><title>2026-10-31 · 1 PR</title></circle>
-<circle cx="936.0" cy="422" r="3.5" fill="#b69aff"><title>2026-11-01 · 2 PR</title></circle>
-<circle cx="936.0" cy="410" r="3.5" fill="#b69aff"><title>2026-11-01 · 2 PR</title></circle>
-<circle cx="946.0" cy="422" r="3.5" fill="#b69aff"><title>2026-11-02 · 1 PR</title></circle>
+<path d="M48 432H952" stroke="#33594D"/>
+<circle cx="815.7" cy="422" r="3.5" fill="#74DCAD"><title>2026-10-20 · 1 PR</title></circle>
+<circle cx="825.7" cy="422" r="3.5" fill="#74DCAD"><title>2026-10-21 · 1 PR</title></circle>
+<circle cx="926.0" cy="422" r="3.5" fill="#74DCAD"><title>2026-10-31 · 1 PR</title></circle>
+<circle cx="936.0" cy="422" r="3.5" fill="#74DCAD"><title>2026-11-01 · 2 PR</title></circle>
+<circle cx="936.0" cy="410" r="3.5" fill="#74DCAD"><title>2026-11-01 · 2 PR</title></circle>
+<circle cx="946.0" cy="422" r="3.5" fill="#74DCAD"><title>2026-11-02 · 1 PR</title></circle>
 <text x="48" y="458" font-size="11" class="muted mono" >08-05</text>
 <text x="952" y="458" font-size="11" class="muted mono" text-anchor="end">11-02</text>
 <text x="500" y="458" font-size="11" class="muted" text-anchor="middle">近 90 天 · 按合并日期</text>
-<path d="M48 485H952" stroke="#273040"/>
+<path d="M48 485H952" stroke="#33594D"/>
 <text x="48" y="520" font-size="12" class="accent mono" letter-spacing="2">REPOSITORIES</text>
 <text x="952" y="520" font-size="11" class="muted mono" text-anchor="end">MERGED PR / STARS</text>
 <a xlink:href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin">
-<rect x="48" y="541" width="32" height="32" rx="8" fill="#191528"/>
+<rect x="48" y="541" width="32" height="32" rx="8" fill="#182F27"/>
 <text x="64" y="562" font-size="12" class="accent mono" text-anchor="middle">01</text>
 <text x="98" y="565" font-size="17" class="mono" font-weight="550">awesome-dsh-plugin/awesome-dsh-plugin</text>
 <text x="788" y="565" font-size="15" class="mono" text-anchor="end">2 PR</text>
 <text x="952" y="565" font-size="14" class="muted mono" text-anchor="end">☆ 21.9k</text>
 </a>
-<path d="M48 592H952" stroke="#273040"/>
+<path d="M48 592H952" stroke="#33594D"/>
 <a xlink:href="https://github.com/zauberzeug/nicegui">
-<rect x="48" y="609" width="32" height="32" rx="8" fill="#191528"/>
+<rect x="48" y="609" width="32" height="32" rx="8" fill="#182F27"/>
 <text x="64" y="630" font-size="12" class="accent mono" text-anchor="middle">02</text>
 <text x="98" y="633" font-size="17" class="mono" font-weight="550">zauberzeug/nicegui</text>
 <text x="788" y="633" font-size="15" class="mono" text-anchor="end">2 PR</text>
 <text x="952" y="633" font-size="14" class="muted mono" text-anchor="end">☆ 16.3k</text>
 </a>
-<path d="M48 660H952" stroke="#273040"/>
+<path d="M48 660H952" stroke="#33594D"/>
 <a xlink:href="https://github.com/agentscope-ai/agentscope">
-<rect x="48" y="677" width="32" height="32" rx="8" fill="#191528"/>
+<rect x="48" y="677" width="32" height="32" rx="8" fill="#182F27"/>
 <text x="64" y="698" font-size="12" class="accent mono" text-anchor="middle">03</text>
 <text x="98" y="701" font-size="17" class="mono" font-weight="550">agentscope-ai/agentscope</text>
 <text x="788" y="701" font-size="15" class="mono" text-anchor="end">1 PR</text>
 <text x="952" y="701" font-size="14" class="muted mono" text-anchor="end">☆ 35.2k</text>
 </a>
-<path d="M48 728H952" stroke="#273040"/>
+<path d="M48 728H952" stroke="#33594D"/>
 <a xlink:href="https://github.com/agno-agi/agno">
-<rect x="48" y="745" width="32" height="32" rx="8" fill="#191528"/>
+<rect x="48" y="745" width="32" height="32" rx="8" fill="#182F27"/>
 <text x="64" y="766" font-size="12" class="accent mono" text-anchor="middle">04</text>
 <text x="98" y="769" font-size="17" class="mono" font-weight="550">agno-agi/agno</text>
 <text x="788" y="769" font-size="15" class="mono" text-anchor="end">1 PR</text>
 <text x="952" y="769" font-size="14" class="muted mono" text-anchor="end">☆ 43.0k</text>
 </a>
-<path d="M48 796H952" stroke="#273040"/>
+<path d="M48 796H952" stroke="#33594D"/>
 <text x="48" y="842" font-size="11" class="muted" >GitHub REST API · 仅公开数据 · 每日更新</text>
 <text x="952" y="842" font-size="11" class="muted mono" text-anchor="end">2026-11-02 15:38 UTC+8</text>
 </svg>

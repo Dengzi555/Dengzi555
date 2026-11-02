@@ -90,7 +90,7 @@ def summarize(data):
 def render(data, dark=False):
     """生成无脚本、无外部字体的 SVG，适配 GitHub 图片代理与浅色/暗色主题。"""
     s = summarize(data)
-    bg, text, muted, line, accent, tint = ('#0d1117', '#f0f3fa', '#939daf', '#273040', '#b69aff', '#191528') if dark else ('#ffffff', '#20252e', '#7d8798', '#e8edf3', '#8054e8', '#f7f4fd')
+    bg, text, muted, line, accent, tint = ('#101D1C', '#D6F6E8', '#9CBFB0', '#33594D', '#74DCAD', '#182F27') if dark else ('#EDF5F0', '#183F34', '#4D7161', '#AEC8BC', '#206B51', '#DFEBE3')
     repos = s['repos'][:8]
     height = 590 + max(1, len(repos)) * 68
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="{height}" viewBox="0 0 1000 {height}" role="img" aria-labelledby="title desc">',
