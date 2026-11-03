@@ -1,6 +1,6 @@
 {
   "username": "Dengzi555",
-  "updated_at": "2026-11-02T20:25:45+08:00",
+  "updated_at": "2026-11-03T15:53:38+08:00",
   "scope": "authored merged public pull requests",
   "pull_requests": [
     {
@@ -37,19 +37,19 @@
   "repositories": [
     {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 21988
+      "stars": 22122
     },
     {
       "name": "zauberzeug/nicegui",
-      "stars": 16329
+      "stars": 16328
     },
     {
       "name": "agentscope-ai/agentscope",
-      "stars": 35203
+      "stars": 35269
     },
     {
       "name": "agno-agi/agno",
-      "stars": 43014
+      "stars": 43024
     }
   ]
 }
