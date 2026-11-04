@@ -1,6 +1,6 @@
 {
   "username": "Dengzi555",
-  "updated_at": "2026-11-03T15:53:38+08:00",
+  "updated_at": "2026-11-04T15:28:29+08:00",
   "scope": "authored merged public pull requests",
   "pull_requests": [
     {
@@ -32,24 +32,33 @@
       "repository": "agno-agi/agno",
       "number": 11417,
       "merged_at": "2026-11-01T14:28:26Z"
+    },
+    {
+      "repository": "sympy/sympy",
+      "number": 30929,
+      "merged_at": "2026-11-03T10:58:13Z"
     }
   ],
   "repositories": [
     {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 22122
+      "stars": 22304
     },
     {
       "name": "zauberzeug/nicegui",
-      "stars": 16328
+      "stars": 16329
     },
     {
       "name": "agentscope-ai/agentscope",
-      "stars": 35269
+      "stars": 35351
     },
     {
       "name": "agno-agi/agno",
-      "stars": 43024
+      "stars": 43054
+    },
+    {
+      "name": "sympy/sympy",
+      "stars": 15068
     }
   ]
 }
