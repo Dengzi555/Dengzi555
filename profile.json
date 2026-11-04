@@ -1,0 +1,25 @@
+{
+  "username": "Dengzi555",
+  "name": "dengzi",
+  "latin": "",
+  "eyebrow": "BUILD / SHARE",
+  "tagline": "南邮研二在读，在实践中学习与分享。",
+  "sub": "做一点好用的工具，感谢伟大的开源者。",
+  "theme": "t2",
+  "accent": "blue",
+  "mode": "contributions",
+  "language": "zh",
+  "projects": [
+    {
+      "name": "deepseek-quotalk",
+      "url": "https://github.com/Dengzi555/deepseek-quotalk",
+      "description": "DeepSeek 网页划词追问扩展，结合上下文在浮动小窗中追问，支持流式回答与明暗主题。"
+    },
+    {
+      "name": "dsh-quotalk",
+      "url": "https://github.com/Dengzi555/dsh-quotalk",
+      "description": "DeepSeek Harness 桌面端划词追问，在原生侧边栏中解释文字与代码。"
+    }
+  ],
+  "links": []
+}

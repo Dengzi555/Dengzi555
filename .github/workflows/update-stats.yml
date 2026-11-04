@@ -1,40 +1,37 @@
-name: Update public PR statistics
+name: 更新主页贡献
 
 on:
   schedule:
     - cron: '17 1 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - scripts/**
-      - tests/**
-      - .github/workflows/update-stats.yml
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-statistics
-  cancel-in-progress: false
+  group: profile-contributions
+  cancel-in-progress: true
 
 jobs:
-  update:
+  refresh:
+    if: github.repository == 'Dengzi555/Dengzi555'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - name: Verify statistics calculations
-        run: python3 -m unittest discover -s tests
-      - name: Fetch public contributions and render cards
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 获取真实贡献并更新展示区
         env:
-          GITHUB_TOKEN: ${{ github.token }}
-        run: python3 scripts/generate_stats.py --username Dengzi555
-      - name: Commit updated statistics
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_contrib.py Dengzi555 --out . --theme t2 --accent blue --language zh --top 5
+      - name: 校验本地资源
+        run: python scripts/verify_render.py --local .
+      - name: 仅在内容变化时提交
         run: |
-          git add assets/pr-stats.svg assets/pr-stats-dark.svg stats.json
+          git add README.md assets/
           if git diff --cached --quiet; then exit 0; fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m "Update public PR statistics"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: 更新主页贡献 [skip ci]"
           git push

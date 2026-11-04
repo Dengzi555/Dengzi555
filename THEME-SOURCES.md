@@ -1,3 +1,9 @@
+# 当前主页主题
+
+2026年11月4日起采用[github-profile-polish](https://github.com/shi-felix/skills/tree/main/github-profile-polish)的t2蓝色终端风格。身份图片、贡献图片和刷新脚本由该Skill生成。脚本许可证保存在scripts/github-profile-polish.LICENSE.txt。仓库图标来自GitHub公开API中的仓库所属账号头像，并内嵌于SVG。
+
+以下保留此前使用素材的来源记录。
+
 # 终端工作台主题来源
 
 布局、横幅、分隔线和页脚改编自 [Theater-ahyeon/github-profile-themes](https://github.com/Theater-ahyeon/github-profile-themes) 的 Whale Terminal 主题。

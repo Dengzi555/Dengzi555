@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="226" viewBox="0 0 962 226" role="img" aria-label="dengzi">
-<title>dengzi</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="246" viewBox="0 0 962 246" role="img" aria-label="dengzi terminal">
+<title>dengzi terminal</title>
 
-<rect x="40" y="47" width="7" height="7" fill="#4493f8"/>
-<text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#4493f8" font-weight="600">LEARN / BUILD / SHARE</text>
-<text x="38" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">dengzi</text>
-<text x="40" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#9198a1" font-weight="normal">南邮研二在读，在实践中学习与分享。</text>
-<text x="40" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">感谢伟大的开源者。</text>
-<line x1="40" y1="217" x2="922" y2="217" stroke="#3d444d" stroke-width="1"/>
+<rect x="0" y="0" width="962" height="246" rx="8" fill="#0d1117" stroke="#3d444d" stroke-width="1"/>
+<path d="M0 8a8 8 0 0 1 8-8h946a8 8 0 0 1 8 8v26H0z" fill="#151b23"/>
+<circle cx="26" cy="17" r="5.5" fill="#ff5f57"/>
+<circle cx="46" cy="17" r="5.5" fill="#febc2e"/>
+<circle cx="66" cy="17" r="5.5" fill="#28c840"/>
+<text x="481" y="22" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#9198a1" font-weight="normal" text-anchor="middle">dengzi / profile</text>
+<line x1="0" y1="34" x2="962" y2="34" stroke="#3d444d"/>
+<text x="40" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#4493f8" font-weight="700">$</text>
+<text x="62" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#9198a1" font-weight="normal">BUILD / SHARE</text>
+<text x="40" y="134" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">dengzi</text>
+<rect x="169.8" y="102.9" width="9" height="31.9" rx="2" fill="#4493f8"/>
+<text x="40" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#9198a1" font-weight="normal">南邮研二在读，在实践中学习与分享。</text>
+<text x="40" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">做一点好用的工具，感谢伟大的开源者。</text>
 </svg>
