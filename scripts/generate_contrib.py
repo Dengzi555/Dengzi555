@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import base64
 import datetime
+import hashlib
 import json
 import os
 import re
@@ -453,10 +454,12 @@ def snippet(data: dict | None = None, *, theme: str = "t1", language: str = "zh"
         query = urllib.parse.quote(data["query"])
         entries.extend(("", f"[GitHub Search](https://github.com/search?q={query}&type=pullrequests)", END))
         return "\n".join(entries)
+    snapshot = {key: value for key, value in (data or {}).items() if key != "generated_at"}
+    version = hashlib.sha256(json.dumps(snapshot, sort_keys=True, ensure_ascii=False).encode("utf-8")).hexdigest()[:12]
     return f"""{BEGIN}
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg">
-  <img src="./assets/contrib-light.svg" width="100%" alt="Merged pull requests and repositories">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg?v={version}">
+  <img src="./assets/contrib-light.svg?v={version}" width="100%" alt="Merged pull requests and repositories">
 </picture>
 {END}"""
 
