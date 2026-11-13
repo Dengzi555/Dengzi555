@@ -3,14 +3,14 @@
   "scope": "upstream",
   "visibility": "public",
   "query": "author:Dengzi555 type:pr is:merged is:public -user:Dengzi555",
-  "total_merged": 10,
+  "total_merged": 12,
   "last_merged": "2026-11",
   "complete": true,
-  "repo_count": 6,
+  "repo_count": 8,
   "repos": [
     {
       "repo": "zauberzeug/nicegui",
-      "stars": 16334,
+      "stars": 16336,
       "desc": "Create web-based user interfaces with Python. The nice way.",
       "owner": "zauberzeug",
       "logo": {
@@ -24,7 +24,7 @@
     },
     {
       "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 24382,
+      "stars": 24479,
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "owner": "awesome-dsh-plugin",
       "logo": {
@@ -38,7 +38,7 @@
     },
     {
       "repo": "bytedance/deer-flow",
-      "stars": 85269,
+      "stars": 85292,
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "owner": "bytedance",
       "logo": {
@@ -52,7 +52,7 @@
     },
     {
       "repo": "agno-agi/agno",
-      "stars": 43165,
+      "stars": 43179,
       "desc": "The self-managing agent platform",
       "owner": "agno-agi",
       "logo": {
@@ -65,13 +65,41 @@
       "prs_exact": true
     },
     {
+      "repo": "psf/black",
+      "stars": 42170,
+      "desc": "The uncompromising Python code formatter",
+      "owner": "psf",
+      "logo": {
+        "kind": "raster",
+        "b64": "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",
+        "mime": "image/png"
+      },
+      "logo_src": "avatar",
+      "prs": 1,
+      "prs_exact": true
+    },
+    {
       "repo": "agentscope-ai/agentscope",
-      "stars": 35845,
+      "stars": 35891,
       "desc": "Build and run agents you can see, understand and trust.",
       "owner": "agentscope-ai",
       "logo": {
         "kind": "raster",
         "b64": "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",
+        "mime": "image/png"
+      },
+      "logo_src": "avatar",
+      "prs": 1,
+      "prs_exact": true
+    },
+    {
+      "repo": "reflex-dev/reflex",
+      "stars": 29020,
+      "desc": "🕸️ Web apps in pure Python 🐍",
+      "owner": "reflex-dev",
+      "logo": {
+        "kind": "raster",
+        "b64": "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",
         "mime": "image/png"
       },
       "logo_src": "avatar",
@@ -93,5 +121,5 @@
       "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-12T08:17:34.554951+00:00"
+  "generated_at": "2026-11-13T04:16:30.819521+00:00"
 }
