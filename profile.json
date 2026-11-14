@@ -19,6 +19,16 @@
       "name": "dsh-quotalk",
       "url": "https://github.com/Dengzi555/dsh-quotalk",
       "description": "DeepSeek Harness 桌面端划词追问，在原生侧边栏中解释文字与代码。"
+    },
+    {
+      "name": "花迹",
+      "url": "https://github.com/Dengzi555/huaji-flower-agent",
+      "description": "多门店鲜花电商运营 Agent，串联商品识别与目录维护、经营预警、证据调查和整改审批。"
+    },
+    {
+      "name": "医点通",
+      "url": "https://github.com/Dengzi555/meditouch-agent",
+      "description": "药店店员 Copilot，支持多轮找药、库存与货架查询、禁忌提示、多药盒入库及出入库管理。"
     }
   ],
   "links": []

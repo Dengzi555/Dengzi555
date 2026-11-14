@@ -14,8 +14,8 @@
 
 - **[deepseek-quotalk](<https://github.com/Dengzi555/deepseek-quotalk>)**：DeepSeek 网页划词追问扩展，结合上下文在浮动小窗中追问，支持流式回答与明暗主题。
 - **[dsh-quotalk](<https://github.com/Dengzi555/dsh-quotalk>)**：DeepSeek Harness 桌面端划词追问，在原生侧边栏中解释文字与代码。
-- **[花迹](https://github.com/Dengzi555/huaji-flower-agent)**：鲜花门店经营调查 Agent，从风险预警发起调查，生成结案报告和整改审批草稿。
-- **[医点通](https://github.com/Dengzi555/zhiheng-medical-agent)**：基于 LangGraph 的中文健康资料助手，检索资料、校验原文引用，并提示证据不足或冲突。
+- **[花迹](https://github.com/Dengzi555/huaji-flower-agent)**：多门店鲜花电商运营 Agent，串联商品识别与目录维护、经营预警、证据调查和整改审批。
+- **[医点通](https://github.com/Dengzi555/meditouch-agent)**：药店店员 Copilot，支持多轮找药、库存与货架查询、禁忌提示、多药盒入库及出入库管理。
 
 <details>
 <summary>统计口径与更新记录</summary>
