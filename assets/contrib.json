@@ -10,7 +10,7 @@
   "repos": [
     {
       "repo": "zauberzeug/nicegui",
-      "stars": 16336,
+      "stars": 16342,
       "desc": "Create web-based user interfaces with Python. The nice way.",
       "owner": "zauberzeug",
       "logo": {
@@ -24,7 +24,7 @@
     },
     {
       "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 24718,
+      "stars": 24833,
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "owner": "awesome-dsh-plugin",
       "logo": {
@@ -38,7 +38,7 @@
     },
     {
       "repo": "bytedance/deer-flow",
-      "stars": 85353,
+      "stars": 85384,
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "owner": "bytedance",
       "logo": {
@@ -52,7 +52,7 @@
     },
     {
       "repo": "agno-agi/agno",
-      "stars": 43197,
+      "stars": 43204,
       "desc": "The self-managing agent platform",
       "owner": "agno-agi",
       "logo": {
@@ -66,7 +66,7 @@
     },
     {
       "repo": "psf/black",
-      "stars": 42182,
+      "stars": 42187,
       "desc": "The uncompromising Python code formatter",
       "owner": "psf",
       "logo": {
@@ -80,7 +80,7 @@
     },
     {
       "repo": "agentscope-ai/agentscope",
-      "stars": 36024,
+      "stars": 36072,
       "desc": "Build and run agents you can see, understand and trust.",
       "owner": "agentscope-ai",
       "logo": {
@@ -94,7 +94,7 @@
     },
     {
       "repo": "reflex-dev/reflex",
-      "stars": 29026,
+      "stars": 29029,
       "desc": "🕸️ Web apps in pure Python 🐍",
       "owner": "reflex-dev",
       "logo": {
@@ -108,7 +108,7 @@
     },
     {
       "repo": "sympy/sympy",
-      "stars": 15088,
+      "stars": 15101,
       "desc": "A computer algebra system written in pure Python",
       "owner": "sympy",
       "logo": {
@@ -121,5 +121,5 @@
       "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-15T07:48:48.767975+00:00"
+  "generated_at": "2026-11-16T07:57:22.781182+00:00"
 }
