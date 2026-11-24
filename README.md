@@ -5,8 +5,8 @@
 
 <!-- CONTRIB:BEGIN -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg?v=ded27ea10bc0">
-  <img src="./assets/contrib-light.svg?v=ded27ea10bc0" width="100%" alt="Merged pull requests and repositories">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg?v=edc94c87e5c4">
+  <img src="./assets/contrib-light.svg?v=edc94c87e5c4" width="100%" alt="Merged pull requests and repositories">
 </picture>
 <!-- CONTRIB:END -->
 
